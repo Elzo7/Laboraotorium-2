@@ -11,7 +11,12 @@ public class Lab1Application {
 		System.out.println("Start application");
 		System.out.println("Test Laboratorium 1");
 
+<<<<<<< HEAD
 		System.out.println("Jestem konfliktowy 2");
+=======
+
+		System.out.println("Jestem konliktowy 1");
+>>>>>>> conflict_1
 
 		SpringApplication.run(Lab1Application.class, args);
 	}
