@@ -12,6 +12,8 @@ public class Lab1Application {
 		System.out.println("Test Laboratorium 1");
 
 		System.out.println("Jestem spokojnym masterem");
+		System.out.println("Jestem konfliktowy 2");
+		System.out.println("Jestem konliktowy 1");
 
 		SpringApplication.run(Lab1Application.class, args);
 	}
