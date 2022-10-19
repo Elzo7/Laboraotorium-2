@@ -1,1 +1,2 @@
-To jest dokumentacja projektu
+To jest dokumentacja projektu 
+2
