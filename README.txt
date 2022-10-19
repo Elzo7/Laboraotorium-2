@@ -1,1 +1,1 @@
-Laboratorium z Procesw wytwarzania oprogramowania
+To jest dokumentacja projektu
