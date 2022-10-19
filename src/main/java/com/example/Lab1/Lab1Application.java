@@ -3,6 +3,8 @@ package com.example.Lab1;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import java.util.Date;
+
 @SpringBootApplication
 public class Lab1Application {
 
@@ -16,6 +18,7 @@ public class Lab1Application {
 		System.out.println("Jestem konliktowy 1");
 
 		SpringApplication.run(Lab1Application.class, args);
+		System.out.println(new Date());
 	}
 
 }
